@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FB Login</string>
+    <string name="login_text">login</string>
+    <string name="email_text">email</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="verify_email_text">verify email</string>
+    <string name="register_text">register</string>
+</resources>
